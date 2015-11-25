@@ -5,7 +5,7 @@
 
 图片加载指示器，加载完毕后可自定义动画揭示图片
 
-已经封装成category（objc）：
+已经封装成category（objc）：https://github.com/liuzhiyi1992/UIImageView-sport-category-
 
 
 ![image](https://raw.githubusercontent.com/liuzhiyi1992/ImageLoadingIndicator/master/ImageLoadingIndicator/indicatorImage.png)
