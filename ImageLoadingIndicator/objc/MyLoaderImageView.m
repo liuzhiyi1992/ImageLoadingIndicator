@@ -21,8 +21,7 @@
 @implementation MyLoaderImageView
 
 - (void)awakeFromNib {
-//    [self configure];
-//    [self configureTwo];
+    [self configure];
 }
 
 - (instancetype)initWithUrl:(NSURL *)url {

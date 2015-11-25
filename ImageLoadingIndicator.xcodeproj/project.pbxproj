@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4875BACC1BFEC501004B82A4 /* UIImageView+sport.m in Sources */ = {isa = PBXBuildFile; fileRef = 4875BACB1BFEC501004B82A4 /* UIImageView+sport.m */; };
 		48AA6B221BFC710700DEFF20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48AA6B211BFC710700DEFF20 /* AppDelegate.swift */; };
 		48AA6B241BFC710700DEFF20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48AA6B231BFC710700DEFF20 /* ViewController.swift */; };
 		48AA6B271BFC710700DEFF20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48AA6B251BFC710700DEFF20 /* Main.storyboard */; };
@@ -54,8 +53,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4875BACA1BFEC501004B82A4 /* UIImageView+sport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+sport.h"; sourceTree = "<group>"; };
-		4875BACB1BFEC501004B82A4 /* UIImageView+sport.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+sport.m"; sourceTree = "<group>"; };
 		48AA6B1E1BFC710700DEFF20 /* ImageLoadingIndicator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageLoadingIndicator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48AA6B211BFC710700DEFF20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48AA6B231BFC710700DEFF20 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -197,8 +194,6 @@
 				48AA6B8C1BFC780700DEFF20 /* CircleLoadingView.h */,
 				48AA6B8D1BFC780700DEFF20 /* CircleLoadingView.m */,
 				48AA6B581BFC745300DEFF20 /* ImageLoadingIndicator-Bridging-Header.h */,
-				4875BACA1BFEC501004B82A4 /* UIImageView+sport.h */,
-				4875BACB1BFEC501004B82A4 /* UIImageView+sport.m */,
 			);
 			path = objc;
 			sourceTree = "<group>";
@@ -383,7 +378,6 @@
 				48AA6B8E1BFC780700DEFF20 /* CircleLoadingView.m in Sources */,
 				48AA6B821BFC74EA00DEFF20 /* SDWebImageManager.m in Sources */,
 				48AA6B871BFC74EA00DEFF20 /* UIImageView+HighlightedWebCache.m in Sources */,
-				4875BACC1BFEC501004B82A4 /* UIImageView+sport.m in Sources */,
 				48AA6B801BFC74EA00DEFF20 /* SDWebImageDownloader.m in Sources */,
 				48AA6B881BFC74EA00DEFF20 /* UIImageView+WebCache.m in Sources */,
 				48AA6B7D1BFC74EA00DEFF20 /* SDImageCache.m in Sources */,
