@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		48381F701C0595E600075D24 /* indicatorImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 48381F6F1C0595E600075D24 /* indicatorImage.png */; };
+		48381F721C0596BC00075D24 /* screenShot.png in Resources */ = {isa = PBXBuildFile; fileRef = 48381F711C0596BC00075D24 /* screenShot.png */; };
 		48AA6B221BFC710700DEFF20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48AA6B211BFC710700DEFF20 /* AppDelegate.swift */; };
 		48AA6B241BFC710700DEFF20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48AA6B231BFC710700DEFF20 /* ViewController.swift */; };
 		48AA6B271BFC710700DEFF20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48AA6B251BFC710700DEFF20 /* Main.storyboard */; };
@@ -55,6 +56,7 @@
 
 /* Begin PBXFileReference section */
 		48381F6F1C0595E600075D24 /* indicatorImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = indicatorImage.png; sourceTree = "<group>"; };
+		48381F711C0596BC00075D24 /* screenShot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenShot.png; sourceTree = "<group>"; };
 		48AA6B1E1BFC710700DEFF20 /* ImageLoadingIndicator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageLoadingIndicator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48AA6B211BFC710700DEFF20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48AA6B231BFC710700DEFF20 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 				48AA6B2A1BFC710700DEFF20 /* LaunchScreen.storyboard */,
 				48AA6B2D1BFC710700DEFF20 /* Info.plist */,
 				48381F6F1C0595E600075D24 /* indicatorImage.png */,
+				48381F711C0596BC00075D24 /* screenShot.png */,
 			);
 			path = ImageLoadingIndicator;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 			files = (
 				48AA6B2C1BFC710700DEFF20 /* LaunchScreen.storyboard in Resources */,
 				48381F701C0595E600075D24 /* indicatorImage.png in Resources */,
+				48381F721C0596BC00075D24 /* screenShot.png in Resources */,
 				48AA6B291BFC710700DEFF20 /* Assets.xcassets in Resources */,
 				48AA6B271BFC710700DEFF20 /* Main.storyboard in Resources */,
 			);
